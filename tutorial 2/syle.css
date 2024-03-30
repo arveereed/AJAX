@@ -1,0 +1,22 @@
+body { background-color: rgba(0, 0, 0, 0.2); }
+
+.container {
+  height: 50%;
+  width: 50%;
+  background-color: #fff;
+  padding: 1px 20px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #000;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  color: #fff;
+  font-size: 14px;
+  padding: 5px 10px;
+  border-radius:3px;
+  margin-left: 50px;
+}
