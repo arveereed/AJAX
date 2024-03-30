@@ -1,3 +1,7 @@
+<?php
+require_once 'inc/dbh.inc.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
